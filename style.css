@@ -1,0 +1,4 @@
+# 1. Додаємо файл
+git add style.css
+# 2. Робемо коміт
+git commit -m "style: add basic css for project"
