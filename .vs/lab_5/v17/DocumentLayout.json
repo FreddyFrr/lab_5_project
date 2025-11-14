@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misha\\source\\repos\\lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\year.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\year.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\colkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\colkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\colkulator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\colkulator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|c:\\users\\misha\\source\\repos\\lab_5\\lab_5\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\colkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FB5BEF7-0E28-474A-8493-B52480D72989}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\colkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Table.cs",
+              "RelativeDocumentMoniker": "lab_5\\Table.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Table.cs",
+              "RelativeToolTip": "lab_5\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:15:19.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Table.cs",
+              "RelativeDocumentMoniker": "lab_5\\Table.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab_5\\Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:11:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Year.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.Designer.cs",
+              "RelativeDocumentMoniker": "lab_5\\Year.Designer.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.Designer.cs",
+              "RelativeToolTip": "lab_5\\Year.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:08:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Year.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.cs",
+              "RelativeDocumentMoniker": "lab_5\\Year.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.cs",
+              "RelativeToolTip": "lab_5\\Year.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:06:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Year.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.cs",
+              "RelativeDocumentMoniker": "lab_5\\Year.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Year.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab_5\\Year.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:05:06.987Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colkulator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.Designer.cs",
+              "RelativeDocumentMoniker": "lab_5\\Colkulator.Designer.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.Designer.cs",
+              "RelativeToolTip": "lab_5\\Colkulator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:22:19.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colkulator.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.cs",
+              "RelativeDocumentMoniker": "lab_5\\Colkulator.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.cs",
+              "RelativeToolTip": "lab_5\\Colkulator.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:50:58.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "lab_5\\Program.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Program.cs",
+              "RelativeToolTip": "lab_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:27:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Colkulator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.cs",
+              "RelativeDocumentMoniker": "lab_5\\Colkulator.cs",
+              "ToolTip": "C:\\Users\\misha\\source\\repos\\lab_5\\lab_5\\Colkulator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab_5\\Colkulator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:46:14.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
